@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "express-session": "1.15.0",
+    "express-useragent": "1.0.3",
+    "request": "2.78.0",
+    "underscore": "1.8.3",
+    "underscore.string": "2.4.0"
+  },
+  "engines": {
+    "node": "8.9.1"
+  },
+  "ignore": [
+    ".gitignore",
+    ".npmignore"
+  ]
+}
